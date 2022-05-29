@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**GUDDU434/GUDDU434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Guddu Ali
+Love coding 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Learning Full stack web devlopment
+- 🌱 I’m currently learning Mern stack
+- 👯 I’m looking to collaborate on user centric web application
+- 💬 Ask me about Coding | Data structure and algorithm
+- 📫 How to reach me: gudduali93@yahho.com , Linkedin(https://www.linkedin.com/in/guddu-ali-00697a119/)
+- 😄 Pronouns: Guduu Ali
+- ⚡ Fun fact: don't judge by look;
