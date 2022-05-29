@@ -1,6 +1,8 @@
-### Hi 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-# My name is Guddu Ali
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Guddu Ali</h1>
+<h3 align="center">I'm a Full Stack Developer</h3>
+
 ## About me
 I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialized in MERN STACK. I also have the ability to transform a real world problem to technical soluction. Looking for an opportunity to enhance my skill and gather more and more technical knowledge.
 ## 
@@ -28,3 +30,15 @@ I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialize
 ## My Github status:
 <img src="https://github-readme-stats.vercel.app/api?username=GUDDU434&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+  <a href="https://github.com/GUDDU434/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUDDU434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/GUDDU434/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GUDDU434&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
