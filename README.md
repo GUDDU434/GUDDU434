@@ -1,5 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<div align="center">
+<img height="250px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+</div>
 <h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, My name is Guddu Ali</h1>
 <h3 align="center">I'm a FULL STACK WEB DEVELOPER</h3>
 
