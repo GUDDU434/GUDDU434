@@ -5,7 +5,10 @@
 <h3 align="center">I'm a FULL STACK WEB DEVELOPER</h3>
 
 ## About me
+<img align='right' src="https://www.scoopbyte.com/wp-content/uploads/2021/09/0_HICLyAdNSIyT0ODU.jpg" width="260" height='230'>
 I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialized in MERN STACK. I also have the ability to transform a real world problem to technical soluction. Looking for an opportunity to enhance my skill and gather more and more technical knowledge.
+
+
 ## 
 - 🔭 I’m currently working on Learning Full stack web devlopment
 - 🌱 I’m currently learning Mern stack
@@ -15,7 +18,10 @@ I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialize
 - 😄 Pronouns: Guduu Ali
 - ⚡ Fun fact: don't judge me by look 😄;
 
-## Skills and Frameworks
+![living](https://img.shields.io/badge/living-Mumbai,Maharastara-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevlopment-teal)
+
+## 🚀 Frameworks and Tools:
 <div style="display: flex">
 <img style="height:75px" src="https://camo.githubusercontent.com/0821ae25cbd292f1c724d2fbf808a78136e61c72ec42a1a961d2be9288441930/68747470733a2f2f7777772e77332e6f72672f68746d6c2f6c6f676f2f646f776e6c6f6164732f48544d4c355f4c6f676f5f3531322e706e67"/> 
 <img style="height:75px" src="https://camo.githubusercontent.com/9977319498c69f17a1034d75afcc29cceb175f4f98584c40d756478841ba62e0/68747470733a2f2f696d61676573372e77656279646f2e636f6d2f39302f393039383734362f333935382f34366432643030352d316230322d343936312d616131642d3061626137663732303962642e6a7067"/>
@@ -35,11 +41,12 @@ I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialize
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
-
 <a href="https://github.com/GUDDU434/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GUDDU434&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
-<br/>
-<br/>
+## Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/guddu-ali-00697a119/)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@gudduali93)
+[![Drop a mail](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](gudduali93@yahoo.com)
