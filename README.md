@@ -1,13 +1,11 @@
 <div align="center">
 <img height="250px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 </div>
-<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, My name is Guddu Ali</h1>
-<h3 align="center">I'm a FULL STACK WEB DEVELOPER</h3>
+<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I am Guddu Ali</h1>
+<h3 align="center">A FULL STACK WEB DEVELOPER</h3>
 
 ## About me
-<img align='right' src="https://www.scoopbyte.com/wp-content/uploads/2021/09/0_HICLyAdNSIyT0ODU.jpg" width="260" height='230'>
-I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialized in MERN STACK. I also have the ability to transform a real world problem to technical soluction. Looking for an opportunity to enhance my skill and gather more and more technical knowledge.
-
+<p align="center">I am a creative, passionate, and aspiring FULL STACK WEB DEVELOPER specializing in MERN STACK. I also have the ability to transform a real-world problem into technical soluction. Currently i am learning web devlopment and improving my data structure and algorithm skill.</p>
 
 ## 
 - 🔭 I’m currently working on Learning Full stack web devlopment
@@ -22,7 +20,7 @@ I am a creative, passionated and an aspiring FULL STACK WEB DEVELOPER specialize
 ![focus](https://img.shields.io/badge/focus-SoftwareDevlopment-teal)
 
 ## 🚀 Frameworks and Tools:
-<div style="display: flex">
+<div style="display: flex" align="center">
 <img style="height:75px" src="https://camo.githubusercontent.com/0821ae25cbd292f1c724d2fbf808a78136e61c72ec42a1a961d2be9288441930/68747470733a2f2f7777772e77332e6f72672f68746d6c2f6c6f676f2f646f776e6c6f6164732f48544d4c355f4c6f676f5f3531322e706e67"/> 
 <img style="height:75px" src="https://camo.githubusercontent.com/9977319498c69f17a1034d75afcc29cceb175f4f98584c40d756478841ba62e0/68747470733a2f2f696d61676573372e77656279646f2e636f6d2f39302f393039383734362f333935382f34366432643030352d316230322d343936312d616131642d3061626137663732303962642e6a7067"/>
 <img style="height:75px" src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67"/>
