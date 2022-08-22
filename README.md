@@ -1,6 +1,3 @@
-<div align="center">
-<img height="250px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-</div>
 <h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I am Guddu Ali</h1>
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
@@ -8,6 +5,7 @@
 <p align="center">I am a creative, passionate, and aspiring FULL STACK WEB DEVELOPER specializing in MERN STACK. I also have the ability to transform a real-world problem into technical soluction. Currently i am learning web devlopment and improving my data structure and algorithm skill.</p>
 
 ## 
+<img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 - 🌱 I’m currently Learning Full stack web devlopment
 
 - 💬 Ask me about Coding | Data structure and algorithm
