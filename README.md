@@ -2,7 +2,7 @@
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
 ## About me
-<p align="center">I am a creative, passionate, and aspiring FULL STACK WEB DEVELOPER specializing in MERN STACK. I also have the ability to transform a real-world problem into technical soluction. Currently i am learning web devlopment and improving my data structure and algorithm skill.</p>
+<p align="center">I am a creative, passionate, and aspiring FULL STACK WEB DEVELOPER specializing in MERN STACK. I also have the ability to transform a real-world problem into a technical solution. Currently, I am learning web development and improving my data structure and algorithm skill.</p>
 
 ## 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about Coding | Data structure and algorithm
 
-- 📫 How to reach me: <a href="gudduali93@yahoo.com">@Mail</a> , <a href="https://www.linkedin.com/in/guddu-ali-00697a119/">LinkedIn</a> | <a href="https://guddu-ali-portfolio.netlify.app/">Portfolio</a>
+- 📫 How to reach me: <a href="gudduali93@yahoo.com">@Mail</a> | <a href="https://www.linkedin.com/in/guddu-ali-00697a119/">LinkedIn</a> | <a href="https://guddu-ali-portfolio.netlify.app/">Portfolio</a>
 
 - ⚡ Fun fact: Don't judge me by my look 😄;
 
