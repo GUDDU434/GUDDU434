@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I am Guddu Ali</h1>
-<h3 align="center">FULL STACK WEB DEVELOPER</h3>
+<h1 align="center">Hay, <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" > I am Guddu Ali</h1>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 
 ## About me
-<p align="center">I am a creative, passionate, and aspiring FULL STACK WEB DEVELOPER specializing in MERN STACK. I also have the ability to transform a real-world problem into a technical solution. Currently, I am learning web development and improving my data structure and algorithm skill.</p>
+<p align="center">A highly motivated Software Engineer with one year of valuable experience specializing in backend development. Proficient in an extensive array of technologies, including Golang, MySQL, Node.js, Express.js, React.js, and MongoDB. Ability to transform a real-world problem into a technical solution. Currently, I am looking for a new opportunity and improving my data structure and algorithm skill.</p>
 
 ## 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-- 🌱 I’m currently Learning Full stack web devlopment
+- 🌱 I’m currently looking for the opportunity and upgrading skills
 
 - 💬 Ask me about Coding | Data structure and algorithm
 
