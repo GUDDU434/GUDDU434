@@ -46,7 +46,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/GUDDU434/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GUDDU434&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/GUDDU434/github-readme-activity-graph"><img alt="Guddu Ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GUDDU434&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 ## Contact me:
