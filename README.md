@@ -35,6 +35,8 @@
             <a href="https://mui.com/"><img   src="https://camo.githubusercontent.com/817fc7ba268e7e1fa114cbc4328bb326913cf392f5e2077ccc7b5f0e90a77109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c25323055492d3030374646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465" alt=""></a>
            <a href="https://chakra-ui.com/"> <img   src="https://camo.githubusercontent.com/5d58ae623237663dd0d209c197c95181d672cbc62ad322039de3c37f1647bcce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b726125323055492d3362633762643f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465" alt=""></a>
             <a href="https://styled-components.com/"><img   src="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" alt=""></a>
+      <a href="https://go.dev/"> <img src="https://img.shields.io/badge/GoLang-orange?style=for-the-badge&color=007d9c" /></a>
+     <a href="https://bitbucket.org/product/"> <img src="https://img.shields.io/badge/Bitbucket-orange?style=for-the-badge&color=0001ff" /></a>
  </div>
 
 ## My Github status:
