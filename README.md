@@ -2,7 +2,8 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
 ## About me
-<p align="center">A highly motivated Software Engineer with one year of valuable experience specializing in backend development. Proficient in an extensive array of technologies, including Golang, MySQL, Node.js, Express.js, React.js, and MongoDB. Ability to transform a real-world problem into a technical solution. Currently, I am looking for a new opportunity and improving my data structure and algorithm skill.</p>
+<p align="center">Dynamic Full Stack Web Developer with expertise in  Golang, MySQL, Node.js, Express.js, React.js, MongoDB, coupled with strong problem-solving and collaborative abilities. Skilled in leveraging Generative AI to enhance web applications. Adaptable to new technologies swiftly for optimal project outcomes. Proficient in the MERN stack and continuous improvement practices.
+</p>
 
 ## 
 <img height="200px" align="right" src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966"/>
