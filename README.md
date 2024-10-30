@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Coding | Data structure and algorithm
 
-- 📫 How to reach me: <a href="gudduali93@yahoo.com">@Mail</a> | <a href="https://www.linkedin.com/in/guddu-ali-00697a119/">LinkedIn</a> | <a href="https://guddu-ali-portfolio.netlify.app/">Portfolio</a>
+- 📫 How to reach me: <a href="gudduali93@yahoo.com">@Mail</a> | <a href="https://www.linkedin.com/in/guddu-ali-00697a119/">LinkedIn</a> | <a href="https://guddu-ali-portfolio.netlify.app/">Portfolio</a> | <a href="https://drive.google.com/file/d/1hS-S2QO88mMXpQEb_9MUoo3BDbKjskEJ/view">Resume</a>
 
 - ⚡ Fun fact: Don't judge me by my look 😄;
 
